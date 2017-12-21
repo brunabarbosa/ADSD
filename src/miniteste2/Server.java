@@ -21,6 +21,9 @@ class Server extends Sim_entity {
 		stat = new Sim_stat();
 		stat.add_measure(Sim_stat.UTILISATION);
 		stat.add_measure(Sim_stat.SERVICE_TIME);
+		stat.add_measure(Sim_stat.ARRIVAL_RATE);
+		stat.add_measure(Sim_stat.WAITING_TIME);
+		stat.add_measure(Sim_stat.THROUGHPUT);
 		stat.add_measure(Sim_stat.QUEUE_LENGTH);
 		stat.calc_proportions(Sim_stat.QUEUE_LENGTH, new double[] {0, 1, 2});
 		stat.set_efficient(Sim_stat.SERVICE_TIME);

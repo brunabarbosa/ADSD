@@ -6,9 +6,9 @@
 
 Version: SimJava 2.0
 
-Simulation date:         December 21, 2017
-Simulation start time:   8:42:25 PM BRT
-Simulation end time:     8:42:25 PM BRT
+Simulation date:         21 de Dezembro de 2017
+Simulation start time:   21h54min15s BRST
+Simulation end time:     21h54min15s BRST
 
 ############################################################
 #            Overall simulation run information            #
@@ -45,6 +45,24 @@ Sample variance:      Not available in efficient mode
 Sample std deviation: Not available in efficient mode
 Maximum:              8.104271795447396
 Minimum:              0.3959786030920327
+
+- Arrival rate
+
+Sample mean:          0.10229963671318439
+Event count:          11
+
+- Waiting time
+
+Sample mean:          1.3645278212353076
+Sample variance:      6.485689305916262
+Sample std deviation: 2.546701652317417
+Maximum:              6.599848758654076
+Minimum:              0.0
+
+- Throughput
+
+Sample mean:          0.09299966973925854
+Event count:          10
 
 - Queue length
 
