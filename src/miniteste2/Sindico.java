@@ -13,8 +13,8 @@ public class Sindico extends Sim_entity{
 	  Sim_stat stat;
 
 
-	  public static final int SINK_BLOCKED = 0;
-	  public static final int SINK_OK      = 1;
+	  public static final int SINDICO_BLOCKED = 0;
+	  public static final int SINDICO_OK      = 1;
 
 	  public Sindico(String name, int index, int state) {
 	    super(name);
@@ -22,12 +22,14 @@ public class Sindico extends Sim_entity{
 	    this.state = state;
 	    in = new Sim_port("in");
 	    add_port(in);
+	    
 	    stat = new Sim_stat();
 	    stat.add_measure(Sim_stat.ARRIVAL_RATE);
-        stat.add_measure(Sim_stat.QUEUE_LENGTH); 
-        stat.add_measure(Sim_stat.WAITING_TIME); 
-        stat.add_measure(Sim_stat.THROUGHPUT);
-        set_stat(stat);
+	    stat.add_measure(Sim_stat.QUEUE_LENGTH); 
+	    stat.add_measure(Sim_stat.WAITING_TIME); 
+	    stat.add_measure(Sim_stat.THROUGHPUT);
+	    set_stat(stat);
+	    
 
 	  }
 
@@ -40,7 +42,7 @@ public class Sindico extends Sim_entity{
 	      i++; if(i>50) break;
 	      sim_wait(ev);
 	      sim_pause(100);
-	      sim_schedule(in,0.0,1);
+	      sim_schedule(in,10000,1);
 	    }
 	    System.out.println("Exiting body S");
 	  }

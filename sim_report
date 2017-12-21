@@ -7,49 +7,54 @@
 Version: SimJava 2.0
 
 Simulation date:         December 21, 2017
-Simulation start time:   8:09:53 PM BRT
-Simulation end time:     8:09:53 PM BRT
+Simulation start time:   8:42:25 PM BRT
+Simulation end time:     8:42:25 PM BRT
 
 ############################################################
 #            Overall simulation run information            #
 ############################################################
 
-Total simulated time:    3329.750778793448
+Total simulated time:    107.52726357025585
 Total transient time:    0.0
-Total steady state time: 3329.750778793448
+Total steady state time: 107.52726357025585
 Transient condition:     None
-Termination condition:   None
+Termination condition:   10 event completions at Service
 Output analysis method:  None
 
 ############################################################
 #               Simulation run measurements                #
 ############################################################
 
-------------------------- Receiver -------------------------
+------------------------ Customers -------------------------
 
-- Arrival rate
+- Generation rate
 
-Sample mean:          0.009009683304547692
-Event count:          30
+Sample mean:          0.10229963671318439
+Event count:          11
+
+------------------------- Service --------------------------
+
+- Utilisation
+
+Sample mean:          0.43670097481090003
+
+- Service time
+
+Sample mean:          4.281873568872536
+Sample variance:      Not available in efficient mode
+Sample std deviation: Not available in efficient mode
+Maximum:              8.104271795447396
+Minimum:              0.3959786030920327
 
 - Queue length
 
-Sample mean:          15.494965052936998
-Sample variance:      75.18465418952076
-Sample std deviation: 8.670908498509297
-Maximum:              30.0
-Minimum:              1.0
-
-- Waiting time
-
-Sample mean:          0.0
-Sample variance:      0.0
-Sample std deviation: 0.0
-Maximum:              0.0
+Sample mean:          0.13959070039740498
+Sample variance:      Not available in efficient mode
+Sample std deviation: Not available in efficient mode
+Maximum:              2.0
 Minimum:              0.0
-
-- Throughput
-
-Sample mean:          0.0
-Event count:          0
+Exceedence proportions:
+      0.0 < Queue length <= 1.0 : 0.10242505109839929
+      1.0 < Queue length <= 2.0 : 0.018582824649502838
+      2.0 < Queue length : 0.0
 

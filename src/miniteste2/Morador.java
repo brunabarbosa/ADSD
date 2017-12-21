@@ -1,6 +1,7 @@
 package miniteste2;
 
 import eduni.simjava.*;
+import eduni.simjava.distributions.Generator;
 import eduni.simjava.distributions.Sim_normal_obj;
 
 public class Morador extends Sim_entity{
