@@ -1,0 +1,213 @@
+u: Receiver at 0.0: waiting for an event
+u: Sender at 0.0: C accum_test min 10.0 max 20.0 interval sum 3.0 avg 15.0
+u: Sender at 0.0: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 0.0: waiting for an event
+u: Receiver at 0.0: start pausing
+u: Receiver at 1.234: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 1.234: waiting for an event
+u: Sender at 1.234: start pausing
+u: Sender at 11.028633139089052: C Src loop index is 0
+u: Sender at 11.028633139089052: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 11.028633139089052: waiting for an event
+u: Receiver at 11.028633139089052: start pausing
+u: Receiver at 12.262633139089052: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 12.262633139089052: waiting for an event
+u: Sender at 12.262633139089052: start pausing
+u: Sender at 24.92701791423258: C Src loop index is 1
+u: Sender at 24.92701791423258: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 24.92701791423258: waiting for an event
+u: Receiver at 24.92701791423258: start pausing
+u: Receiver at 26.16101791423258: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 26.16101791423258: waiting for an event
+u: Sender at 26.16101791423258: start pausing
+u: Sender at 37.55283720599607: C Src loop index is 2
+u: Sender at 37.55283720599607: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 37.55283720599607: waiting for an event
+u: Receiver at 37.55283720599607: start pausing
+u: Receiver at 38.78683720599607: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 38.78683720599607: waiting for an event
+u: Sender at 38.78683720599607: start pausing
+u: Sender at 48.80805374846038: C Src loop index is 3
+u: Sender at 48.80805374846038: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 48.80805374846038: waiting for an event
+u: Receiver at 48.80805374846038: start pausing
+u: Receiver at 50.04205374846038: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 50.04205374846038: waiting for an event
+u: Sender at 50.04205374846038: start pausing
+u: Sender at 64.76579641884396: C Src loop index is 4
+u: Sender at 64.76579641884396: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 64.76579641884396: waiting for an event
+u: Receiver at 64.76579641884396: start pausing
+u: Receiver at 65.99979641884396: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 65.99979641884396: waiting for an event
+u: Sender at 65.99979641884396: start pausing
+u: Sender at 76.88872351967773: C Src loop index is 5
+u: Sender at 76.88872351967773: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 76.88872351967773: waiting for an event
+u: Receiver at 76.88872351967773: start pausing
+u: Receiver at 78.12272351967772: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 78.12272351967772: waiting for an event
+u: Sender at 78.12272351967772: start pausing
+u: Sender at 86.6906927955279: C Src loop index is 6
+u: Sender at 86.6906927955279: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 86.6906927955279: waiting for an event
+u: Receiver at 86.6906927955279: start pausing
+u: Receiver at 87.92469279552789: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 87.92469279552789: waiting for an event
+u: Sender at 87.92469279552789: start pausing
+u: Sender at 100.98054895700012: C Src loop index is 7
+u: Sender at 100.98054895700012: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 100.98054895700012: waiting for an event
+u: Receiver at 100.98054895700012: start pausing
+u: Receiver at 102.21454895700012: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 102.21454895700012: waiting for an event
+u: Sender at 102.21454895700012: start pausing
+u: Sender at 115.44628504393724: C Src loop index is 8
+u: Sender at 115.44628504393724: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 115.44628504393724: waiting for an event
+u: Receiver at 115.44628504393724: start pausing
+u: Receiver at 116.68028504393723: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 116.68028504393723: waiting for an event
+u: Sender at 116.68028504393723: start pausing
+u: Sender at 126.91833973710429: C Src loop index is 9
+u: Sender at 126.91833973710429: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 126.91833973710429: waiting for an event
+u: Receiver at 126.91833973710429: start pausing
+u: Receiver at 128.15233973710428: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 128.15233973710428: waiting for an event
+u: Sender at 128.15233973710428: start pausing
+u: Sender at 138.315325764189: C Src loop index is 10
+u: Sender at 138.315325764189: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 138.315325764189: waiting for an event
+u: Receiver at 138.315325764189: start pausing
+u: Receiver at 139.549325764189: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 139.549325764189: waiting for an event
+u: Sender at 139.549325764189: start pausing
+u: Sender at 151.83788195150322: C Src loop index is 11
+u: Sender at 151.83788195150322: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 151.83788195150322: waiting for an event
+u: Receiver at 151.83788195150322: start pausing
+u: Receiver at 153.07188195150323: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 153.07188195150323: waiting for an event
+u: Sender at 153.07188195150323: start pausing
+u: Sender at 159.58005829211874: C Src loop index is 12
+u: Sender at 159.58005829211874: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 159.58005829211874: waiting for an event
+u: Receiver at 159.58005829211874: start pausing
+u: Receiver at 160.81405829211874: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 160.81405829211874: waiting for an event
+u: Sender at 160.81405829211874: start pausing
+u: Sender at 171.01175018930218: C Src loop index is 13
+u: Sender at 171.01175018930218: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 171.01175018930218: waiting for an event
+u: Receiver at 171.01175018930218: start pausing
+u: Receiver at 172.24575018930219: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 172.24575018930219: waiting for an event
+u: Sender at 172.24575018930219: start pausing
+u: Sender at 186.2056885154357: C Src loop index is 14
+u: Sender at 186.2056885154357: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 186.2056885154357: waiting for an event
+u: Receiver at 186.2056885154357: start pausing
+u: Receiver at 187.4396885154357: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 187.4396885154357: waiting for an event
+u: Sender at 187.4396885154357: start pausing
+u: Sender at 197.00065337213084: C Src loop index is 15
+u: Sender at 197.00065337213084: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 197.00065337213084: waiting for an event
+u: Receiver at 197.00065337213084: start pausing
+u: Receiver at 198.23465337213085: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 198.23465337213085: waiting for an event
+u: Sender at 198.23465337213085: start pausing
+u: Sender at 209.41065147528343: C Src loop index is 16
+u: Sender at 209.41065147528343: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 209.41065147528343: waiting for an event
+u: Receiver at 209.41065147528343: start pausing
+u: Receiver at 210.64465147528344: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 210.64465147528344: waiting for an event
+u: Sender at 210.64465147528344: start pausing
+u: Sender at 224.5309021357963: C Src loop index is 17
+u: Sender at 224.5309021357963: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 224.5309021357963: waiting for an event
+u: Receiver at 224.5309021357963: start pausing
+u: Receiver at 225.76490213579632: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 225.76490213579632: waiting for an event
+u: Sender at 225.76490213579632: start pausing
+u: Sender at 233.36911987550045: C Src loop index is 18
+u: Sender at 233.36911987550045: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 233.36911987550045: waiting for an event
+u: Receiver at 233.36911987550045: start pausing
+u: Receiver at 234.60311987550045: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 234.60311987550045: waiting for an event
+u: Sender at 234.60311987550045: start pausing
+u: Sender at 247.01457965314705: C Src loop index is 19
+u: Sender at 247.01457965314705: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 247.01457965314705: waiting for an event
+u: Receiver at 247.01457965314705: start pausing
+u: Receiver at 248.24857965314706: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 248.24857965314706: waiting for an event
+u: Sender at 248.24857965314706: start pausing
+u: Sender at 260.2027672894775: C Src loop index is 20
+u: Sender at 260.2027672894775: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 260.2027672894775: waiting for an event
+u: Receiver at 260.2027672894775: start pausing
+u: Receiver at 261.4367672894775: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 261.4367672894775: waiting for an event
+u: Sender at 261.4367672894775: start pausing
+u: Sender at 267.77486115967747: C Src loop index is 21
+u: Sender at 267.77486115967747: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 267.77486115967747: waiting for an event
+u: Receiver at 267.77486115967747: start pausing
+u: Receiver at 269.00886115967745: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 269.00886115967745: waiting for an event
+u: Sender at 269.00886115967745: start pausing
+u: Sender at 275.83393424988026: C Src loop index is 22
+u: Sender at 275.83393424988026: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 275.83393424988026: waiting for an event
+u: Receiver at 275.83393424988026: start pausing
+u: Receiver at 277.06793424988024: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 277.06793424988024: waiting for an event
+u: Sender at 277.06793424988024: start pausing
+u: Sender at 286.9026689661732: C Src loop index is 23
+u: Sender at 286.9026689661732: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 286.9026689661732: waiting for an event
+u: Receiver at 286.9026689661732: start pausing
+u: Receiver at 288.1366689661732: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 288.1366689661732: waiting for an event
+u: Sender at 288.1366689661732: start pausing
+u: Sender at 298.9664078424195: C Src loop index is 24
+u: Sender at 298.9664078424195: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 298.9664078424195: waiting for an event
+u: Receiver at 298.9664078424195: start pausing
+u: Receiver at 300.2004078424195: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 300.2004078424195: waiting for an event
+u: Sender at 300.2004078424195: start pausing
+u: Sender at 313.55221841222203: C Src loop index is 25
+u: Sender at 313.55221841222203: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 313.55221841222203: waiting for an event
+u: Receiver at 313.55221841222203: start pausing
+u: Receiver at 314.786218412222: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 314.786218412222: waiting for an event
+u: Sender at 314.786218412222: start pausing
+u: Sender at 325.11249634798213: C Src loop index is 26
+u: Sender at 325.11249634798213: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 325.11249634798213: waiting for an event
+u: Receiver at 325.11249634798213: start pausing
+u: Receiver at 326.3464963479821: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 326.3464963479821: waiting for an event
+u: Sender at 326.3464963479821: start pausing
+u: Sender at 338.6790337193885: C Src loop index is 27
+u: Sender at 338.6790337193885: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 338.6790337193885: waiting for an event
+u: Receiver at 338.6790337193885: start pausing
+u: Receiver at 339.91303371938847: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 339.91303371938847: waiting for an event
+u: Sender at 339.91303371938847: start pausing
+u: Sender at 355.6334837177166: C Src loop index is 28
+u: Sender at 355.6334837177166: scheduling event type 0 for Receiver with delay 0.0
+u: Sender at 355.6334837177166: waiting for an event
+u: Receiver at 355.6334837177166: start pausing
+u: Receiver at 356.8674837177166: scheduling event type 1 for Sender with delay 0.0
+u: Receiver at 356.8674837177166: waiting for an event
+u: Sender at 356.8674837177166: start pausing
+u: Sender at 366.77077879344745: C Src loop index is 29
+u: Sender at 366.77077879344745: C Interval total 366.77077879344745 Average 89.9065023332057
