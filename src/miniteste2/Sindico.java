@@ -1,11 +1,17 @@
 package miniteste2;
 
-import eduni.simjava.*;
+import eduni.simjava.Sim_entity;
+import eduni.simjava.Sim_event;
+import eduni.simjava.Sim_port;
+import eduni.simjava.Sim_stat;
 
 public class Sindico extends Sim_entity{
 	private Sim_port in;
 	  private int index;
 	  private int state;
+	  
+	  Sim_stat stat;
+
 
 	  public static final int SINK_BLOCKED = 0;
 	  public static final int SINK_OK      = 1;
@@ -16,6 +22,13 @@ public class Sindico extends Sim_entity{
 	    this.state = state;
 	    in = new Sim_port("in");
 	    add_port(in);
+	    stat = new Sim_stat();
+	    stat.add_measure(Sim_stat.ARRIVAL_RATE);
+        stat.add_measure(Sim_stat.QUEUE_LENGTH); 
+        stat.add_measure(Sim_stat.WAITING_TIME); 
+        stat.add_measure(Sim_stat.THROUGHPUT);
+        set_stat(stat);
+
 	  }
 
 	  public void body() {
@@ -26,7 +39,7 @@ public class Sindico extends Sim_entity{
 	    while(true) {
 	      i++; if(i>50) break;
 	      sim_wait(ev);
-	      sim_pause(1.234);
+	      sim_pause(100);
 	      sim_schedule(in,0.0,1);
 	    }
 	    System.out.println("Exiting body S");

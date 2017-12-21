@@ -8,6 +8,7 @@ public class Morador extends Sim_entity{
 	private Sim_port out;
 	private int index;
 	private int state;
+	Sim_stat stat;
 	
 	public static final int SRC_OK = 0;
 	public static final int SRC_BLOCKED = 1;
@@ -60,7 +61,7 @@ public class Morador extends Sim_entity{
 	    }
 	    sim_trace(1, "C Interval total "+results.interval_sum()+
 	                         " Average "+results.avg());
-	  
+	    
 	}
 	
 	
