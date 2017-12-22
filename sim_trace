@@ -1,6 +1,6 @@
 u: Customers at 0.0: scheduling event type 0 for Service with delay 0.0
-u: Service at 0.0: waiting for an event
 u: Customers at 0.0: start pausing
+u: Service at 0.0: waiting for an event
 u: Service at 0.0: start processing
 u: Service at 7.763777199932751: event type 0 completed service
 u: Service at 7.763777199932751: waiting for an event
