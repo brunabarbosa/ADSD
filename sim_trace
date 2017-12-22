@@ -1,54 +1,54 @@
 u: Customers at 0.0: scheduling event type 0 for Service with delay 0.0
-u: Customers at 0.0: start pausing
 u: Service at 0.0: waiting for an event
+u: Customers at 0.0: start pausing
 u: Service at 0.0: start processing
-u: Service at 7.763777199932751: event type 0 completed service
-u: Service at 7.763777199932751: waiting for an event
+u: Service at 5.209310089801117: event type 0 completed service
+u: Service at 5.209310089801117: waiting for an event
 u: Customers at 14.258273172256203: scheduling event type 0 for Service with delay 0.0
 u: Customers at 14.258273172256203: start pausing
 u: Service at 14.258273172256203: start processing
 u: Customers at 16.016512593931353: scheduling event type 0 for Service with delay 0.0
 u: Customers at 16.016512593931353: start pausing
-u: Service at 16.493631375908016: event type 0 completed service
-u: Service at 16.493631375908016: selected event type 0 (event time was 16.016512593931353)
-u: Service at 16.493631375908016: start processing
-u: Service at 24.597903171355412: event type 0 completed service
-u: Service at 24.597903171355412: waiting for an event
+u: Service at 22.40831094434826: event type 0 completed service
+u: Service at 22.40831094434826: selected event type 0 (event time was 16.016512593931353)
+u: Service at 22.40831094434826: start processing
+u: Service at 27.49160277069109: event type 0 completed service
+u: Service at 27.49160277069109: waiting for an event
 u: Customers at 28.508915171284226: scheduling event type 0 for Service with delay 0.0
 u: Customers at 28.508915171284226: start pausing
 u: Service at 28.508915171284226: start processing
-u: Service at 31.513884517488954: event type 0 completed service
-u: Service at 31.513884517488954: waiting for an event
+u: Service at 36.12657814387682: event type 0 completed service
+u: Service at 36.12657814387682: waiting for an event
 u: Customers at 51.495876572461384: scheduling event type 0 for Service with delay 0.0
 u: Customers at 51.495876572461384: start pausing
 u: Service at 51.495876572461384: start processing
-u: Service at 53.175013634783575: event type 0 completed service
-u: Service at 53.175013634783575: waiting for an event
+u: Service at 60.06181869905119: event type 0 completed service
+u: Service at 60.06181869905119: waiting for an event
 u: Customers at 65.96612875621372: scheduling event type 0 for Service with delay 0.0
 u: Customers at 65.96612875621372: start pausing
 u: Service at 65.96612875621372: start processing
-u: Service at 67.17691478629915: event type 0 completed service
-u: Service at 67.17691478629915: waiting for an event
+u: Service at 74.90400788223809: event type 0 completed service
+u: Service at 74.90400788223809: waiting for an event
 u: Customers at 77.6783237700725: scheduling event type 0 for Service with delay 0.0
 u: Customers at 77.6783237700725: start pausing
 u: Service at 77.6783237700725: start processing
+u: Service at 83.10417268784076: event type 0 completed service
+u: Service at 83.10417268784076: waiting for an event
 u: Customers at 83.16652714295437: scheduling event type 0 for Service with delay 0.0
 u: Customers at 83.16652714295437: start pausing
-u: Service at 84.88710782261214: event type 0 completed service
-u: Service at 84.88710782261214: selected event type 0 (event time was 83.16652714295437)
-u: Service at 84.88710782261214: start processing
-u: Service at 85.28308642570417: event type 0 completed service
-u: Service at 85.28308642570417: waiting for an event
+u: Service at 83.16652714295437: start processing
 u: Customers at 92.17306504365253: scheduling event type 0 for Service with delay 0.0
 u: Customers at 92.17306504365253: start pausing
-u: Service at 92.17306504365253: start processing
 u: Customers at 92.57479215111489: scheduling event type 0 for Service with delay 0.0
 u: Customers at 92.57479215111489: start pausing
+u: Service at 92.80238906856557: event type 0 completed service
+u: Service at 92.80238906856557: selected event type 0 (event time was 92.17306504365253)
+u: Service at 92.80238906856557: start processing
 u: Customers at 97.17648062580203: scheduling event type 0 for Service with delay 0.0
 u: Customers at 97.17648062580203: start pausing
-u: Service at 99.17464090976897: event type 0 completed service
-u: Service at 99.17464090976897: selected event type 0 (event time was 92.57479215111489)
-u: Service at 99.17464090976897: start processing
-u: Service at 103.3887384391019: event type 0 completed service
-u: Service at 103.3887384391019: selected event type 0 (event time was 97.17648062580203)
-u: Service at 103.3887384391019: start processing
+u: Service at 98.31277763451864: event type 0 completed service
+u: Service at 98.31277763451864: selected event type 0 (event time was 92.57479215111489)
+u: Service at 98.31277763451864: start processing
+u: Service at 105.18556126787405: event type 0 completed service
+u: Service at 105.18556126787405: selected event type 0 (event time was 97.17648062580203)
+u: Service at 105.18556126787405: start processing

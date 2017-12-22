@@ -11,18 +11,18 @@ import eduni.simjava.distributions.Sim_uniform_obj;
 
 class Sindico extends Sim_entity {
 	private Sim_port arrival;
-	private Sim_negexp_obj svr_hold;
+	//private Sim_negexp_obj svr_hold;
 	//private Sim_normal_obj svr_hold;
-	//private Sim_uniform_obj svr_hold;
+	private Sim_uniform_obj svr_hold;
 	private Sim_stat stat;
 	
 	public Sindico(String name) {
 		super(name);
 		arrival = new Sim_port("arrival");
 		add_port(arrival);
-		svr_hold = new Sim_negexp_obj("stime", 8.5);
+		//svr_hold = new Sim_negexp_obj("stime", 8.5);
 		//svr_hold = new Sim_normal_obj("Delay Object", 10.0, 5.0, 123);
-		//svr_hold = new Sim_uniform_obj("Delay Uniform Object", 2.0, 10.0);
+		svr_hold = new Sim_uniform_obj("Delay Uniform Object", 2.0, 10.0);
 		add_generator(svr_hold);
 		stat = new Sim_stat();
 		stat.add_measure(Sim_stat.UTILISATION);
